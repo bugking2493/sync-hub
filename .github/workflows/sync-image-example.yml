@@ -21,7 +21,7 @@ jobs:
       with:
         registry: registry.cn-hangzhou.aliyuncs.com
         username: shaoqing_he@1667060327522084
-        password: erke@0592
+        password: erke@0
         logout: false
 
     - name: Use Skopeo Tools Sync Image to Docker Hub
